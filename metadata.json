@@ -1,0 +1,6 @@
+{
+  "name": "NL Browser Test Agent",
+  "description": "Convert plain-English browser test instructions into executable Playwright journeys, with real-time logging, screenshots, and visual reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
